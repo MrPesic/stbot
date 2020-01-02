@@ -1,0 +1,14 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stickbot.js",
+  "scripts": {
+    "start": "node stickbot.js"
+  },
+  "engines": {
+    "node": "12.13.0"
+  },
+    "author": "",
+  "license": "ISC"
+}
